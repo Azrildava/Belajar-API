@@ -114,7 +114,7 @@
                                     <h2 class="text-xl font-semibold text-black dark:text-white">AJILL</h2>
 
                                     <p class="mt-4 text-sm/relaxed">
-                                        Azril Dava Ilham Adalah manusia terganteng di dunia ini
+                                        Azril Dava Ilham Adalah manusia terganteng di dunia ini HAHAHAHAHAH
                                     </p>
                                 </div>
 
